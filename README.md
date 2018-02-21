@@ -1,2 +1,1 @@
-# ADSC2018
-Timeseries classification
+# Timeseries classification
